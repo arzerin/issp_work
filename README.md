@@ -53,7 +53,8 @@
 <tr>
         <td>Week 3 <br/><br/> Model Building on YOLOv8, Custom Dataset, Semantic Segmentation</td>
         <td  width="60%">
-                Training YOLOv8 on Custom Dataset to use for Semantic Segmentation
+                Training YOLOv8 on Custom Dataset to use for Semantic Segmentation, tried to download all duck images from Open Database V7, 
+                then created label from mask datasets using <a href="week3/masks_to_polygons.py">masks_to_polygons.py</a>, then built the model in google colab
         </td>
         <td>
             <a href="">Google Colab Download</a> <br/><br/>
