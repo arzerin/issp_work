@@ -12,6 +12,12 @@ torch
 torchvision
 tqdm
 ultralytics
+roboflow
+py-cpuinfo
+cvzone
+deep_sort_realtime
+boto3==1.33.3
+requests
 
 # Logging ---------------------------------------------------------------------
 tensorboard
