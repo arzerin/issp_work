@@ -13,7 +13,7 @@
         <th>Link</th>
     </tr>
     <tr>
-        <td>Object (Horse) Detection using Yolov9</td>
+        <td>Week 1 <br/>Object (Horse) Detection using Yolov9</td>
         <td  width="60%">This is one of the sample where you can see how I am trying to detect horses after downloading the horse dataset from Roboflow, then finding the horses in the video. I have used Yolov9 here.</td>
         <td>
             <a href="https://colab.research.google.com/drive/1OvNOCwxixmEqlUH4Q4O2Q04q6nQtt4Qp?usp=sharing">Google Colab Download</a> <br/>
