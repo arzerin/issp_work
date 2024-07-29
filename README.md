@@ -26,7 +26,10 @@
 
    <tr>
         <td>Week 1 <br/><br/> Object Detecting in a realtime video using YoloV8, OpenCV</td>
-        <td  width="60%">This is one of the sample where I am trying to detect falling person in a realtime video using OpenCV & Model that was build using Yolov8</td>
+        <td  width="60%">
+                This is one of the sample where I am trying to detect falling person in a realtime video using OpenCV & Model that was build using Yolov8. <br/><br/>
+                To run the falling detection on a video based on generated model you wil have to run the command: python my.py
+        </td>
         <td>
             <a href="https://colab.research.google.com/drive/1T0iTyWsMz6o_43sQhm3EvqVykpELRUDJ?usp=sharing">Google Colab Download</a> <br/><br/>
             <a href="https://universe.roboflow.com/roboflow-universe-projects/fall-detection-ca3o8">Roboflow Dataset of Falling Person Horse</a>    <br/><br/>
