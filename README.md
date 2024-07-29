@@ -1,4 +1,4 @@
-#### Computer Vision Research Assistant Work | Yolov8 | LabelImg 
+#### Computer Vision Research Assistant Work | Yolov8 | Yolov9 | LabelImg 
 
 <a href = "https://www.arzerin.com/">My Website<br><br>
 </div>  
