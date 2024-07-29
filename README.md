@@ -26,8 +26,8 @@
         <td  width="60%">This is one of the sample where I am trying to detect falling person in a realtime video using OpenCV & Model that was build using Yolov8</td>
         <td>
             <a href="https://colab.research.google.com/drive/1T0iTyWsMz6o_43sQhm3EvqVykpELRUDJ?usp=sharing">Google Colab Download</a> <br/><br/>
-            <a href="https://universe.roboflow.com/roboflow-universe-projects/fall-detection-ca3o8">Roboflow Dataset of Falling Person Horse</a>    
-            <a href="week1/my.py">python my.py</a>
+            <a href="https://universe.roboflow.com/roboflow-universe-projects/fall-detection-ca3o8">Roboflow Dataset of Falling Person Horse</a>    <br/><br/>
+            <a href="week1/my.py">python my.py</a><br/><br/>
             <a href="week1/fall.mp4">Falling Video</a>
         </td>
     </tr>
