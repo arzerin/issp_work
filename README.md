@@ -50,4 +50,14 @@
             <a href="https://www.kaggle.com/datasets/odins0n/ucf-crime-dataset">Kaggle Dataset</a>    
         </td>
     </tr>
+<tr>
+        <td>Week 3 <br/><br/> Model Building on YOLOv8, Custom Dataset, Semantic Segmentation</td>
+        <td  width="60%">
+                Training YOLOv8 on Custom Dataset to use for Semantic Segmentation
+        </td>
+        <td>
+            <a href="">Google Colab Download</a> <br/><br/>
+            <a href="https://storage.googleapis.com/openimages/web/index.html">Open Database V7 (duck)</a>    <br/><br/>
+        </td>
+    </tr>
 </table>
