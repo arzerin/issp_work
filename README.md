@@ -19,7 +19,7 @@
         <td>Week 1 <br/><br/> Object (Horse) Detection using Yolov9</td>
         <td  width="60%">This is one of the sample where you can see how I am trying to detect horses after downloading the horse dataset from Roboflow, then finding the horses in the video. I have used Yolov9 here.</td>
         <td>
-            Google Colab <a href="https://colab.research.google.com/drive/1OvNOCwxixmEqlUH4Q4O2Q04q6nQtt4Qp?usp=sharing">Online</a> | <a href="week1/yolov9_object(horse)_detection.ipynb">Online</a> <br/><br/>
+            Google Colab <a href="https://colab.research.google.com/drive/1OvNOCwxixmEqlUH4Q4O2Q04q6nQtt4Qp?usp=sharing">Online</a> | <a href="week1/yolov9_object(horse)_detection.ipynb">Local</a> <br/><br/>
             <a href="https://universe.roboflow.com/saban-ne0tf/horse-jehyp">Roboflow Dataset of Horse</a>    
         </td>
     </tr>
