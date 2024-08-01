@@ -64,15 +64,23 @@
         </td>
     </tr>
     <tr>
-        <td>Week 4 <br/><br/> Mask Building | Mask R-CNN | Zero Shot | CLIP | Grounding Dino | SAM by Facebook</td>
+        <td>Week 4 <br/><br/> Mask Building | Mask R-CNN | Zero Shot | CLIP/td>
         <td  width="60%">
             Worked basic on Mask R-CNN, Zero Shot, CLIP, Grounding Dino, SAM by Facebook.<br/> <br/>
             A hands-on tutorial explaining how to generate a custom Zero-Shot image classifier without training, using a pre-trained CLIP model. Full code included.<br/><br/>
             The CLIP (Contrastive Language-Image Pre-training) model, developed by OpenAI, is a multi-modal vision and language model. It maps images and text descriptions to the same latent space, allowing it to determine whether an image and description match.<br/><br/>
         </td>
         <td>
-            Google Colab  <a href="https://colab.research.google.com/drive/1FnQXx6vtefS59mYi_TrEgc9NlvnfLoSR?usp=sharing">Online</a> |  <a href="week4/ZeroShot_Clip.ipynb">Local</a> <br/><br/>
-            <a href="https://www.kaggle.com/datasets/odins0n/ucf-crime-dataset">Kaggle Dataset</a>    
+            <a href="https://colab.research.google.com/drive/1FnQXx6vtefS59mYi_TrEgc9NlvnfLoSR?usp=sharing">Google Colab  Online</a><br/><br/>  <a href="week4/ZeroShot_Clip.ipynb">Google Colab Local</a> <br/><br/>
+        </td>
+    </tr>
+    <tr>
+        <td>Week 4 <br/><br/> Grounding Dino | SAM by Facebook</td>
+        <td  width="60%">
+            MyGrounding DINO & SAM to Extract Object.ipynb<br/><br/>
+        </td>
+        <td>
+            <a href="https://colab.research.google.com/drive/1SrpPs9YkNWnt7vZFM0VPUYgTdW3KRyPf?usp=sharing">Google Colab Online</a><br/><br/>  <a href="week4/MyGrounding_DINO_&_SAM_to_Extract_Object.ipynb">Google Colab Local</a> <br/><br/>
         </td>
     </tr>
 </table>
