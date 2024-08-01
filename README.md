@@ -64,7 +64,7 @@
         </td>
     </tr>
     <tr>
-        <td>Week 4 <br/><br/> Mask Building | Mask R-CNN | Zero Shot | CLIP/td>
+        <td>Week 4 <br/><br/> Mask Building | Mask R-CNN | Zero Shot | CLIP</td>
         <td  width="60%">
             Worked basic on Mask R-CNN, Zero Shot, CLIP, Grounding Dino, SAM by Facebook.<br/> <br/>
             A hands-on tutorial explaining how to generate a custom Zero-Shot image classifier without training, using a pre-trained CLIP model. Full code included.<br/><br/>
