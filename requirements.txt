@@ -18,6 +18,12 @@ cvzone
 deep_sort_realtime
 boto3==1.33.3
 requests
+transformers
+datasets
+sentencepiece
+accelerate
+evaluate
+rouge_score
 
 # Logging ---------------------------------------------------------------------
 tensorboard
