@@ -55,9 +55,9 @@
         <td  width="60%">
                 Training YOLOv8 on Custom Dataset to use for Semantic Segmentation, tried to download all duck images from Open Database V7, 
                 then created label from mask datasets using <a href="week3/masks_to_polygons.py">masks_to_polygons.py</a>, then built the model in google colab <br/>
-            Open Data Annotation Software: <br/>
-            <a href="https://www.cvat.ai/">https://www.cvat.ai/</a>
-            <a href="https://github.com/HumanSignal/labelImg">labelImg</a>
+            Open Data Annotation Software: <br/> <br/>
+            <a href="https://www.cvat.ai/">https://www.cvat.ai/</a> <br/>
+            <a href="https://github.com/HumanSignal/labelImg">labelImg</a> <br/>
         </td>
         <td>
             Google Colab <a href="https://drive.google.com/file/d/1s6Y-_k_SrVg2h3vu_Y2FpTFsdmka_dNZ/view?usp=sharing">Online</a> | <a href="week3/Download_Data_Semantic_Segmentation_Open_Images_Dataset.ipynb"> Local </a> <br/><br/>
